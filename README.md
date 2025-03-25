@@ -1,4 +1,4 @@
-🐾 PawConnect - The Universal Pet Adoption & Care Ecosystem
+#🐾 PawConnect - The Universal Pet Adoption & Care Ecosystem
 🚀 About the Project
 
 PawConnect is an all-in-one pet adoption and care platform that connects shelters, NGOs, veterinarians, and pet lovers in one place. Unlike existing apps that focus only on cats and dogs, PawConnect supports all animals, including birds, rabbits, reptiles, and farm animals.
